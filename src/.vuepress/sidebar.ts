@@ -18,7 +18,7 @@ export default sidebar({
     // {
     //   text: "待添加",
     //   icon: "book",
-    //   prefix: "posts/",
+    //   prefix: "posts/",/logo.svg
     //   children: "structure",
     // },
     // "intro",
