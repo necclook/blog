@@ -4,7 +4,7 @@ export default navbar([
   "/",
   {
     text: "注意事项",
-    prefix: "/takecare",
+    prefix: "/编码",
     children: ["编码注意事项"]
   },
   // "/demo/",
