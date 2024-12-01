@@ -30,7 +30,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "见面",
+  footer: "朝花夕拾，见字如面",
 
   displayFooter: true,
 

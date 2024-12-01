@@ -4,6 +4,12 @@ export default sidebar({
   "/": [
     // "", // 这里是显示首页的
     {
+      text: "瞎说",
+      icon: "laptop-code",
+      prefix: "瞎说/",
+      children: "structure",
+    },
+    {
       text: "注意实现",
       icon: "laptop-code",
       prefix: "编码/",
