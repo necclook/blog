@@ -17,9 +17,12 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  // repo: "vuepress-theme-hope/vuepress-theme-hope", // 这里是当做github中的一个仓库，更换成自己的
+  repo: "necclook/blog",
 
   docsDir: "src",
+  docsBranch: 'blogbranch',
+  docsRepo: 'necclook/blog', 
 
   // navbar
   navbar,

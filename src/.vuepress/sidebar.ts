@@ -14,6 +14,12 @@ export default sidebar({
       icon: "laptop-code",
       prefix: "Linux/",
       children: "structure",
+    },    
+    {
+      text: "其它软件集合",
+      icon: "laptop-code",
+      prefix: "日常使用软件/",
+      children: "structure",
     },
     // {
     //   text: "待添加",
